@@ -8,7 +8,8 @@
 - ***Could be scaled by adding additional files -very easy***
 
 ## Structure You'll get by default:
-![](../../Desktop/boiler.png)
+<img width="170" alt="boiler" src="https://user-images.githubusercontent.com/91872676/179374211-d7463b8c-c02d-4c33-b89d-f35451b80602.png">
+
 
 You can see a nice, pretty simple boilerplate for your project \
 \
