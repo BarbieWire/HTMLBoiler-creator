@@ -1,6 +1,9 @@
 # Simple HTML5 boilerplate console utility
 *By barbiewir3 ❤️*
 
+Simpliest way to execute:
+- python3 util.py "name" -p "new/dir/path"
+
 ## Quick review:
 - **It's a console script ( See all available commands simply typing *-h* )**
 - ***Script is written fully in Python***
